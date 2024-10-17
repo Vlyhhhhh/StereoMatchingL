@@ -1,0 +1,29 @@
+﻿  SILCStereo.cpp
+d:\git_project\new\stereomatchingl\stereomatchingl\silcstereo.cpp(292): warning C4244: “=”: 从“sint32”转换到“float32”，可能丢失数据
+  adcensus_util.cpp
+d:\git_project\new\stereomatchingl\stereomatchingl\adcensus_util.cpp(133): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+d:\git_project\new\stereomatchingl\stereomatchingl\adcensus_util.cpp(252): warning C4554: “|”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+d:\git_project\new\stereomatchingl\stereomatchingl\adcensus_util.cpp(259): warning C4554: “|”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+d:\git_project\new\stereomatchingl\stereomatchingl\adcensus_util.cpp(239): warning C4101: “y”: 未引用的局部变量
+d:\git_project\new\stereomatchingl\stereomatchingl\adcensus_util.cpp(239): warning C4101: “x”: 未引用的局部变量
+d:\git_project\new\stereomatchingl\stereomatchingl\adcensus_util.cpp(296): warning C4554: “|”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+d:\git_project\new\stereomatchingl\stereomatchingl\adcensus_util.cpp(302): warning C4554: “|”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+d:\git_project\new\stereomatchingl\stereomatchingl\adcensus_util.cpp(317): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\git_project\new\stereomatchingl\stereomatchingl\adcensus_util.cpp(318): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\git_project\new\stereomatchingl\stereomatchingl\adcensus_util.cpp(319): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\git_project\new\stereomatchingl\stereomatchingl\adcensus_util.cpp(320): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\git_project\new\stereomatchingl\stereomatchingl\adcensus_util.cpp(321): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\git_project\new\stereomatchingl\stereomatchingl\adcensus_util.cpp(343): warning C4554: “|”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+d:\git_project\new\stereomatchingl\stereomatchingl\adcensus_util.cpp(349): warning C4554: “|”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+  cost_computor.cpp
+  cross_aggregator.cpp
+  main.cpp
+  multistep_refiner.cpp
+d:\git_project\new\stereomatchingl\stereomatchingl\multistep_refiner.cpp(212): warning C4244: “=”: 从“sint32”转换到“float”，可能丢失数据
+  scanline_optimizer.cpp
+  正在生成代码
+  0 of 1032 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  StereoMatchingL.vcxproj -> D:\git_project\new\StereoMatchingL\x64\Release\StereoMatchingL.exe
